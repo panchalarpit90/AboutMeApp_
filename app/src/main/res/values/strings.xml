@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me Last</string>
+    <string name="name">Arpit</string>
+    <string name="avatar">Avatar</string>
+    <string name="bio">Contrary to popular belief, \n Lorem Ipsum is not simply random text.\n It has roots in a piece of classical Latin literature\n from 45 BC, making it over 2000 years old. \nRichard McClintock, a Latin professor at \n Hampden-Sydney College in Virginia,\n looked up one of the more obscure Latin words,\n consectetur, from a Lorem Ipsum passage, \nand going through the cites\n of the word in classical literature,\n discovered the undoubtable source. \nLorem Ipsum comes from sections 1.10.32 and 1.10.33 of\n "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) \nby Cicero, written in 45 BC. This book is a treatise on the\n theory of ethics, very popular during the Renaissance.\n The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", \n comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum \nused since the 1500s is reproduced below for those \ninterested. Sections 1.10.32 and 1.10.33 from \n"de Finibus Bonorum et Malorum" by Cicero are \nalso reproduced in their exact original form,\n accompanied by English versions from the 1914 \n translation by H. Rackham.</string>
+    <string name="what_is_your_nick_name">What is your nick name</string>
+    <string name="Done">done</string>
+</resources>
